@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Estudante de Análise e Desenvolvimento de Sistemas na UERJ - ZO.<br>- Interesse na área de Ciência de Dados e Estatística Aplicada.<br>
+- Estudante de Análise e Desenvolvimento de Sistemas na UERJ - ZO.<br>- Interesse na área de Ciência de Dados, Estatística e Machine Learning.<br>
 
 
 # 💻 Tech Stack:
